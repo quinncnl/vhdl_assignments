@@ -1,0 +1,21 @@
+Running: C:\Xilinx\14.1\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o Z:/msee/ise/arr3/cascadable_counter_tb_isim_beh.exe -prj Z:/msee/ise/arr3/cascadable_counter_tb_beh.prj work.cascadable_counter_tb 
+ISim P.15xf (signature 0x2f00eba5)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "Z:/msee/ise/arr3/cascadable_counter.vhd" into library work
+Parsing VHDL file "Z:/msee/ise/arr3/cascadable_counter_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 66400 KB
+Fuse CPU Usage: 1234 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity cascadable_counter [\cascadable_counter(10)\]
+Compiling architecture behavior of entity cascadable_counter_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 VHDL Units
+Built simulation executable Z:/msee/ise/arr3/cascadable_counter_tb_isim_beh.exe
+Fuse Memory Usage: 75236 KB
+Fuse CPU Usage: 1562 ms

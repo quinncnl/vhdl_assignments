@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Z:/msee/ise/ass4/cascadable_counter_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="cascadable_counter_tb" />
+            <top_module name="std_logic_1164" />
+            <top_module name="textio" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/cascadable_counter_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cascadable_counter_tb/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/cascadable_counter_tb/ena" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ena</obj_property>
+      <obj_property name="ObjectShortName">ena</obj_property>
+   </wvobject>
+   <wvobject fp_name="group22" type="group">
+      <obj_property name="label">C1</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/cascadable_counter_tb/c_out_5" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">c_out_5</obj_property>
+         <obj_property name="ObjectShortName">c_out_5</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cascadable_counter_tb/count_0to4" type="other" db_ref_id="1">
+         <obj_property name="ElementShortName">count_0to4</obj_property>
+         <obj_property name="ObjectShortName">count_0to4</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group23" type="group">
+      <obj_property name="label">C2</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/cascadable_counter_tb/c_out_5x3" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">c_out_5x3</obj_property>
+         <obj_property name="ObjectShortName">c_out_5x3</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cascadable_counter_tb/count_0to2" type="other" db_ref_id="1">
+         <obj_property name="ElementShortName">count_0to2</obj_property>
+         <obj_property name="ObjectShortName">count_0to2</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group24" type="group">
+      <obj_property name="label">C3</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/cascadable_counter_tb/c_out_15" type="logic" db_ref_id="1">
+         <obj_property name="ElementShortName">c_out_15</obj_property>
+         <obj_property name="ObjectShortName">c_out_15</obj_property>
+      </wvobject>
+      <wvobject fp_name="/cascadable_counter_tb/count_0to14" type="other" db_ref_id="1">
+         <obj_property name="ElementShortName">count_0to14</obj_property>
+         <obj_property name="ObjectShortName">count_0to14</obj_property>
+      </wvobject>
+   </wvobject>
+</wave_config>

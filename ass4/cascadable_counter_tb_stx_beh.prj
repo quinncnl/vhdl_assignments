@@ -1,0 +1,2 @@
+vhdl isim_temp "../arr3/cascadable_counter.vhd"
+vhdl isim_temp "cascadable_counter_tb.vhd"

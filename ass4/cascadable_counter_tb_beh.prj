@@ -1,0 +1,2 @@
+vhdl work "../ass3/cascadable_counter.vhd"
+vhdl work "cascadable_counter_tb.vhd"

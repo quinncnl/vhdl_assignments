@@ -1,0 +1,10 @@
+Command line:
+   cascadable_counter_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  1289
+
+Sun Mar 30 23:50:42 2014
+
+
+ Elaboration Time: 0.09375 sec

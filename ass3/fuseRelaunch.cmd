@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "Z:/msee/ise/arr3/cascadable_counter_tb_isim_beh.exe" -prj "Z:/msee/ise/arr3/cascadable_counter_tb_beh.prj" "work.cascadable_counter_tb" 
