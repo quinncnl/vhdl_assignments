@@ -1,0 +1,2 @@
+vhdl work "start_stop_relay.vhd"
+vhdl work "tb.vhd"

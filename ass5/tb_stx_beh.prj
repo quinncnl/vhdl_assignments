@@ -1,0 +1,2 @@
+vhdl isim_temp "start_stop_relay.vhd"
+vhdl isim_temp "tb.vhd"
